@@ -14,7 +14,7 @@ This Privacy Policy explains how **Miku.Bot#6889** (the “Bot”), developed an
 
 **Message attachments (images)**
 
-* When an image is sent and moderation is enabled, the Bot processes the **image attachment** to extract text via OCR (currently using a local Tesseract instance; planned migration to AWS within ~1 year).
+* When an image is sent and moderation is enabled, the Bot processes the **image attachment** to extract text via OCR (currently using a local Tesseract instance; planned migration to AWS after discord's approval).
 * The Bot only accesses the image attachment(s) — it does not read or store full chat logs.
 
 **Minimal runtime metadata**
